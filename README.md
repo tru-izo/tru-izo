@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, Welcome to my Github 👋
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tru-izo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
