@@ -1,6 +1,8 @@
 ### Hi there, Welcome to my Github 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tru-izo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tru-izo&count_private=true&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tru-izo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=tru-izo&color=brightgreen)
