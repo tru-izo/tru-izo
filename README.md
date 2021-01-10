@@ -1,14 +1,14 @@
 ### <div align="center">Hi there, Welcome to my Github 👋</div>
 
 ---
-* I’m currently learning at Team TreeHouse
+* I’m currently learning at <i>Team TreeHouse</i>
 <img align="center" alt="Team Treehouse" width="165px" src="https://upload.wikimedia.org/wikipedia/en/a/a3/Treehouse%27s_logo_%28Jan_2015%29.png" />
 
 <br />
 
-* Currently working on Mini Frontend Projects. [List of Repositories](https://github.com/tru-izo?tab=repositories)
+* Currently building mini Frontend Projects  🛠  [List of Repositories](https://github.com/tru-izo?tab=repositories)
 
-
+<br />
 
 ### Languages and Tools:
 
@@ -26,7 +26,12 @@
 
 ---
 
+### Github Statistics Below:
+<br />
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tru-izo&count_private=true&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tru-izo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
