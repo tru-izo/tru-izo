@@ -31,5 +31,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tru-izo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://komarev.com/ghpvc/?username=tru-izo&color=brightgreen)
-
+  
+   <p align="center">
+    <a href="https://komarev.com/ghpvc/?username=tru-izo&color=brightgreen">
+      <img align="center" src="https://komarev.com/ghpvc/?username=tru-izo&color=brightgreen">
+    </a>
+  </p>
+  
