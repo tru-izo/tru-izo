@@ -1,7 +1,7 @@
 ### <div align="center">Hi there, Welcome to my Github</div>
 
 ---
-* I’m currently learning at <i>Team TreeHouse</i>
+* I’m currently learning at <i>Team TreeHouse 👋🏼</i>
 <a href="https://teamtreehouse.com/home">
 <img align="center" alt="Team Treehouse" width="165px" src="https://upload.wikimedia.org/wikipedia/en/a/a3/Treehouse%27s_logo_%28Jan_2015%29.png" />
   </a>
