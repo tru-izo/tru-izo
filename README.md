@@ -32,16 +32,12 @@
 ### Github Statistics Below:
 <br />
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=tru-izo&show_icons=true"/>](https://github.com/tru-izo/)
+[<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=tru-izo&show_icons=true"/>](https://github.com/tru-izo/)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tru-izo&layout=compact"/>](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tru-izo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-  
-   <p align="center">
+<br />
+   <p align="right">
     <a href="https://komarev.com/ghpvc/?username=tru-izo&color=brightgreen">
       <img align="center" src="https://komarev.com/ghpvc/?username=tru-izo&color=brightgreen">
     </a>
