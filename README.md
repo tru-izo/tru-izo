@@ -37,7 +37,8 @@
 
 
 <br />
-<p align="right">
+<br />
+<p align="center">
   <a href="https://komarev.com/ghpvc/?username=tru-izo&color=brightgreen">
     <img align="center" src="https://komarev.com/ghpvc/?username=tru-izo&color=brightgreen">
   </a>
