@@ -9,7 +9,7 @@
 <br />
 <br />
 
-* Currently building mini Frontend Projects  🛠  [List of Repositories](https://github.com/tru-izo?tab=repositories)
+* Currently building mini Frontend Projects  🛠  [See Repositories](https://github.com/tru-izo?tab=repositories)
 
 <br />
 
