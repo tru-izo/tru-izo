@@ -5,8 +5,8 @@
     - <i>Path to a free self-taught education in Computer Science.
     - Courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.</i>
 
-* I’m currently working on 100 Days of Python 🛠 [See Repository](https://github.com/tru-izo/100-day-python)
-    - <i>0-1 hour a day by Dr. Angela Yu.
+* I’m currently working on 100 Days of Python by Dr. Angela Yu. 🛠 [See Repository](https://github.com/tru-izo/100-day-python)
+    - <i>0-1 hour a day
 
 ---
 
