@@ -1,30 +1,12 @@
 ### <div align="center">Hi there, Welcome to my Github 👋🏼</div>
 
 ---
-* I’m currently learning at <i>Team TreeHouse</i>
-<a href="https://teamtreehouse.com/home">
-<img align="center" alt="Team Treehouse" width="165px" src="https://upload.wikimedia.org/wikipedia/en/a/a3/Treehouse%27s_logo_%28Jan_2015%29.png" />
-  </a>
+* I’m currently working on Computer Science Degree at [OSSU](https://github.com/ossu)
+    - <i>Path to a free self-taught education in Computer Science.
+    - Courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.</i>
 
-<br />
-<br />
-
-* Currently building mini Projects  🛠  [See Repositories](https://github.com/tru-izo?tab=repositories)
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="GitHub" width="36px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Farchive.org%2Fdownload%2Fgithub.com-python-cpython_-_2020-02-06_23-16-04%2Fcover.jpg&f=1&nofb=1" />
-<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<br />
-<br />
+* I’m currently working on 100 Days of Python 🛠 [See Repository](https://github.com/tru-izo/100-day-python)
+    - <i>0-1 hour a day by Dr. Angela Yu.
 
 ---
 
