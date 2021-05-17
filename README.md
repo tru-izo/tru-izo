@@ -1,7 +1,7 @@
 ### <div align="center">Hi there, Welcome to my Github 👋🏼</div>
 
 ---
-* I’m currently working on Computer Science Degree at [OSSU](https://github.com/ossu)
+* I’m currently learning Computer Science at [OSSU](https://github.com/ossu)
     - <i>Path to a free self-taught education in Computer Science.
     - Courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.</i>
 
